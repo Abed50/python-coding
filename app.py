@@ -20,3 +20,5 @@ class Animal{
             return self.age 
 
     }
+list_compo = [x * x for x in range(10)]
+sq_num = lambda x: x * x 
